@@ -1,0 +1,7 @@
+com\mycompany\springproject\util\HibernateUtil.class
+com\mycompany\springproject\servlet\CustomerLoginServlet.class
+com\mycompany\springproject\dao\CustomerDAO.class
+com\mycompany\springproject\entity\Loan.class
+com\mycompany\springproject\entity\Customer.class
+com\mycompany\springproject\servlet\TestServlet.class
+com\mycompany\springproject\dao\LoanDAO.class
